@@ -1,4 +1,4 @@
-1) place your telegram key in line 15 of bot.py then save
+1) place your telegram bot key in line 15 of ...\tutorial\test1\test2\management\commands\bot.py then save
 in cmd:
 2) go to directory 'tutorial'
 3) ...\tutorial\venv\Scripts\activate
